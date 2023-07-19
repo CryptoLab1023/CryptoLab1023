@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Earlyworks.
+- 🌱 I’m currently learning Project Management.
+- 👯 I’m looking to collaborate on some projects. 
+- 🤔 I’m looking for help with working co-partner.
+- 💬 Ask me about work and tech. 
+- 📫 How to reach me: twitter DM @ry0chain
+- 😄 Pronouns: He/him/his
+- ⚡ Fun fact: Game, Technology
+
 <!--
 **CryptoLab1023/CryptoLab1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
